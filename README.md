@@ -22,7 +22,7 @@ Q: What is the fitness value in our case: -> A: That is the value of penalty cos
 
 Q: How many parents do we select ins the process? It is not clear to me and I can not deduct from the slides. -> A: It depends on you, you have different methods presented to you on the slides, you decide on that. 
 
-More questions? We could text the TA
+More questions? We could send an email to the TA. Furthermore, he mentioned about using the package for genetic algorithms problem. There is an example of that package on the slides from genetic algorith lecture
 
 j.v.vremmerlen@tue.nl?
 
