@@ -11,8 +11,8 @@ I had some questions regarding the optimazation part, I went to Q&A session. Ple
 
 I was struggling with understanding some concepts:
 
-Q:What is an individual? -> A:This could be one possible solutions
-Q:What is the whole population? -> A:This could be a set of possible solutions
+Q:What is an individual? -> A: This could be one possible solution. In the assignment it is written what are the requeirements for the solution engine maintenance, start date, end date, what team has been allocated to that engine 
+Q:What is the whole population? -> A: This could be a set of possible solutions
 
 Q: Do we want to allocate teams to ALL the engines or only to engines that have a predicted safety due date of less than 30? -> A: We need to deal with only engines that have RUL < T time horizon (that is 30 days in the assignment)
 
